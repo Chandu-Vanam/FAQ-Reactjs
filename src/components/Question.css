@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ques{
+    font-size: 1.5rem;
+    margin-top: 5px;
+    background-color: gray;
+    margin-bottom: 5px;
+    color: white;
+}
+h4{
+    display: flex;
+    justify-content: space-between;
+}
+.answer-para{
+    padding: 20px;
+    color: white;
+    background-color: gray;
+    position: relative;
+}
+.btn{
+    font-size: 2rem;
+    padding: 0;
+}
